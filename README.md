@@ -1,1 +1,1 @@
-# SwiftUI_Sample_project
+# SwiftUI Toy Project
