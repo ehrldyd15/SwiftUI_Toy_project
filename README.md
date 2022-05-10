@@ -7,3 +7,4 @@
 
 타임라인 참고자료
 https://swiftuirecipes.com/blog/swiftui-timeline-list
+ddddddd
